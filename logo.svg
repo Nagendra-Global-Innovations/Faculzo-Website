@@ -1,0 +1,22 @@
+<svg width="1024" height="1024" viewBox="12 11 872 872" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Faculzo logo">
+<defs>
+<linearGradient id="fz1g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7A5410"/><stop offset=".28" stop-color="#E8C560"/><stop offset=".5" stop-color="#FFF2B8"/><stop offset=".74" stop-color="#C99A2E"/><stop offset="1" stop-color="#8C6317"/></linearGradient>
+<linearGradient id="fz1l" gradientUnits="userSpaceOnUse" x1="283" y1="290" x2="495" y2="690"><stop offset="0" stop-color="#A87A1E"/><stop offset=".3" stop-color="#E9C45E"/><stop offset=".5" stop-color="#FFF0B0"/><stop offset=".64" stop-color="#D2A33A"/><stop offset="1" stop-color="#8F6414"/></linearGradient>
+<radialGradient id="fz1d" cx=".5" cy=".38" r=".75"><stop offset="0" stop-color="#232327"/><stop offset="1" stop-color="#0b0b0d"/></radialGradient>
+<radialGradient id="fz1s" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#FFF8D2"/><stop offset=".38" stop-color="#E3B94E"/><stop offset="1" stop-color="#8F6414"/></radialGradient>
+<linearGradient id="fz1c" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2d2d32"/><stop offset="1" stop-color="#151518"/></linearGradient>
+<radialGradient id="fz1r" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#1a1a1d"/><stop offset="1" stop-color="#0c0c0e"/></radialGradient>
+</defs>
+<circle class="em-ring" cx="448" cy="447" r="402" fill="none" stroke="url(#fz1g)" stroke-width="46" pathLength="1"/>
+<g class="em-body">
+<circle cx="448" cy="447" r="379" fill="url(#fz1d)"/>
+<circle cx="448" cy="447" r="371" fill="none" stroke="#000" stroke-width="9"/>
+<circle cx="448" cy="447" r="365" fill="none" stroke="url(#fz1g)" stroke-width="3"/>
+<path d="M140 390C220 250 340 190 450 190S680 250 755 390C640 310 540 290 450 290S250 320 140 390Z" fill="url(#fz1c)" opacity=".85"/>
+<g class="em-sphere"><circle cx="448" cy="200" r="55" fill="url(#fz1s)"/><ellipse cx="428" cy="178" rx="15" ry="9" fill="#fff" opacity=".8"/></g>
+<g class="em-l1"><path d="M345 278C300 330 270 420 290 520C310 610 380 665 435 685L470 682L495 640L495 530L408 530L405 500C410 450 430 415 447 392C420 335 385 300 345 278Z" fill="url(#fz1l)"/>
+<path d="M352 330C330 420 358 530 448 640" fill="none" stroke="#fff" stroke-width="5" opacity=".38" stroke-linecap="round"/></g>
+<g class="em-l2"><path d="M560 272C600 322 625 392 616 470C607 570 545 650 470 683L495 530L408 530L405 500C410 450 430 410 447 392C480 340 520 300 560 272Z" fill="#0f0f12" stroke="url(#fz1g)" stroke-width="5" stroke-linejoin="round"/>
+<path d="M545 330C556 420 546 520 520 600" fill="none" stroke="#fff" stroke-width="4" opacity=".14" stroke-linecap="round"/></g>
+<path class="em-shine" d="M150 560L330 380L420 380L240 560Z" fill="#fff" opacity="0" transform="translate(0 0)"/>
+</g></svg>

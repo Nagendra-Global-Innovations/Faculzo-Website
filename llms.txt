@@ -1,0 +1,12 @@
+# FaculZo
+
+> FaculZo is a set of three connected campus apps (Student, Staff, Security) for notes, leave requests, attendance, gate passes and live alerts. It is built by Nagendra Global Innovations (NGI), an Indian technology company founded and led by Mudunuru Avinash Varma, Founder and CEO.
+
+- Website: https://faculzo.nagendraglobalinnovations.in/
+- Company: Nagendra Global Innovations, https://nagendraglobalinnovations.in/
+- Founder and CEO: Mudunuru Avinash Varma (quote: "We don't build technology to predict the future; we build it to make the old way of working obsolete."), https://nagendraglobalinnovations.in/mudunuru-avinash-varma.html
+- Contact: contact@nagendraglobalinnovations.in
+- Terms: https://faculzo.nagendraglobalinnovations.in/terms.html
+- Privacy policy: https://faculzo.nagendraglobalinnovations.in/privacy.html
+
+FaculZo is made for closed college communities: accounts are created by the college, there is no public sign-up.
